@@ -105,7 +105,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I am active on my emails for anyone reaching out to me.
+
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
