@@ -25,3 +25,5 @@ My research interests include Robot design, Control, Experimental validation. My
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+In my free time, I enjoy doing [photography](https://www.instagram.com/siril.td/). I love [cycling](https://www.strava.com/athletes/82563036) and go on long biking trips during summers.  
