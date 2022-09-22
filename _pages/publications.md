@@ -2,10 +2,11 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of my [publications](https://www.researchgate.net/profile/Siril-Dukkipati/research) and ongoing work.
+description: List of my publications and ongoing work.
 years: [2022, 2020, 2019, 2018]
 nav: true
 ---
+[Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/research)
 <!-- _pages/publications.md -->
 <div class="publications">
 
