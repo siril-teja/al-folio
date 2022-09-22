@@ -24,4 +24,4 @@ I hold a Bachelor's Degree in Mechanical Engineering from [Manipal University](h
 
 I was also a part of [Mars Society South Asia](https://southasia.marssociety.org/) and worked on promoting space exploration and education in the 7 South Asian countries by organizing robotic competitions like [IRC](https://southasia.marssociety.org/indianroverchallenge/), [IRDC](https://southasia.marssociety.org/irdc/) etc.
 
-In my free time, I enjoy doing photography. I love cycling and go on long biking trips during summers.  
+In my free time, I enjoy doing [photography](https://www.instagram.com/siril.td/). I love [cycling](https://www.strava.com/athletes/82563036) and go on long biking trips during summers.  
