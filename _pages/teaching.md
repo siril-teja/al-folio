@@ -28,7 +28,7 @@ years: [2023, 2024, 2025, 2022, 2021, 2020, 2019, 2018]
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2022</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
 			<p>
-			MECH 360 is taught by  <a href='https://www.mcgill.ca/continuingstudies/scs-community/biographies/sabih-amar'>Prof. Amar Sabih</a> and is designed to introduce students the latest manufacturing techniques in Part design, Computer Numberic Contol (CNC), its tooling and 3D printing.Theory and practice of modern manufacturing processes: machining, forming, and casting. Producing parts using computer assisted tools from CAD to CNC machining followed by measurement of part quality. Hands-on machining of parts.
+			MECH 360 is taught by  <a href='https://www.mcgill.ca/continuingstudies/scs-community/biographies/sabih-amar'>Prof. Amar Sabih</a> and is designed to introduce students the latest manufacturing techniques in Part design, Computer Numberic Contol (CNC), its tooling and 3D printing.Theory and practice of modern manufacturing processes: machining, forming, and casting. Producing parts using computer assisted tools from CAD to CNC machining followed by measurement of part quality. Hands-on CNC machining of parts.
 			</p>
     </ul>
   </div>
