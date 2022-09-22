@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: [publications](https://www.researchgate.net/profile/Siril-Dukkipati/research)
-description: List of my publications and ongoing work.
+title: publications
+description: List of my [publications](https://www.researchgate.net/profile/Siril-Dukkipati/research) and ongoing work.
 years: [2022, 2020, 2019, 2018]
 nav: true
 ---
