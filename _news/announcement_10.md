@@ -6,3 +6,5 @@ inline: true
 
 
 Another podium presentation on "Viscoelastic properties of 3D printed thoracolumbar [fascia] (https://www.researchgate.net/publication/363581651_Viscoelastic_Properties_of_a_3D_Printed_Analogue_of_Thoracolumbar_Fascia)" at [ESMC2022](https://www.esmc2022.org/), Montreal, Canada.
+
+{% include figure.html path="assets/img/frc_presentation.jpeg" title="FRC Presentation" class="img-fluid rounded z-depth-1" style="width:50%"%}
