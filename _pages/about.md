@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome.! I am a PhD candidate at the [Musculoskeletal Biomechanics Research Lab](https://www.mcgill.ca/mbr/people-1) headed by Dr. Mark Driscoll in the Department of Mechanical Engineering at McGill. My work mainly focuses on the Biomechanics of Human Spine and it's modeling. As the name suggests, my lab works in various fields ranging from FE Simulations to Benchtop model design to Virtual surgery planning - all revolving around the human spine, it's stability and various medical conditions related to it. 
 
-My research interests include Robot design, Control, Experimental validation. My PhD work is focused on developing a validated robotic benchtop spinal model for use as a research tool in low back research. I also do some [web dev](siril.me/picxel) and delve in cybersecurity topics.
+My research interests include Robot design, Control, Experimental validation. My PhD work is focused on developing a validated robotic benchtop spinal model for use as a research tool in low back research. I also do some [web dev](/picxel) and delve in cybersecurity topics.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
