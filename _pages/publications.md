@@ -6,7 +6,7 @@ description: List of my publications and ongoing work.
 years: [2022, 2020, 2019, 2018]
 nav: true
 ---
-[Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/research)
+[Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/research) for up to date list of my research.
 <!-- _pages/publications.md -->
 <div class="publications">
 
