@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
-[Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/research)
+[Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/research) for up to date list of my research.
 <!-- _pages/publications.md -->
 <div class="publications">
 
