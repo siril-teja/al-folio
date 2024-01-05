@@ -7,4 +7,6 @@ dropdown: true
 children:
     - title: Picxel - HTML Art
       permalink: /picxel/
+    - title: GAMES - McGill U
+      permalink: https://games.mcgill.ca/
 ---
