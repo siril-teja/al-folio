@@ -10,6 +10,6 @@ Refer to [Research Gate](https://www.researchgate.net/profile/Siril-Dukkipati/re
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>
