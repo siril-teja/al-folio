@@ -12,10 +12,10 @@ profile:
     <p>siril.dukkipati@mail.mcgill.ca</p>
     <p>sirilteja.dukkipati@gmail.com</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Welcome.! I am a PhD candidate at the [Musculoskeletal Biomechanics Research Lab](https://www.mcgill.ca/mbr/people-1) headed by Dr. Mark Driscoll in the Department of Mechanical Engineering at McGill. My work mainly focuses on the Biomechanics of Human Spine and it's modeling. As the name suggests, my lab works in various fields ranging from FE Simulations to Benchtop model design to Virtual surgery planning - all revolving around the human spine, it's stability and various medical conditions related to it. 
