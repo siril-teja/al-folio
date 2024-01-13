@@ -6,7 +6,7 @@ subtitle: PhD candidate at <a href='https://www.mcgill.ca/mbr/'>MBR Lab</a>, McG
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: prof_pic.jpeg
   address: >
     <p>siril.dukkipati@mail.mcgill.ca</p>
     <p>sirilteja.dukkipati@gmail.com</p>
