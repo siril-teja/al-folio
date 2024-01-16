@@ -28,7 +28,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
   <img src="https://contrib.rocks/image?repo=alshedivat/al-folio" />
 </a>
 
-### Star History
+## Star History
 
 <a href="https://star-history.com/#alshedivat/al-folio&Date">
   <picture>
