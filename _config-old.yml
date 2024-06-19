@@ -6,9 +6,9 @@ title: Siril Teja Dukkipati # the website title (if blank, full name will be use
 first_name: Siril Teja
 middle_name: 
 last_name: Dukkipati
-email: sirilteja.dukkipati@gmail.com
+email: siril.dukkipati@mail.mcgill.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: >
+footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/alshedivat/al-folio">al-folio</a>, <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: siril, siril.td, dukkipati, jekyll, mcgill, manipal, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ++ #⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -163,12 +163,12 @@ disqus_shortname:  # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: # medium.com
-    rss_url: # https://medium.com/@al-folio/feed
-  - name: # Google Blog
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
     posts:
-      - url: # https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: # 2024-05-14
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -187,7 +187,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 10 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -248,7 +248,6 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
@@ -335,7 +334,6 @@ filtered_bibtex_keywords:
     abstract,
     additional_info,
     altmetric,
-    annotation,
     arxiv,
     award,
     award_name,
@@ -409,7 +407,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
-enable_google_verification: false # enables google site verification
+enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
