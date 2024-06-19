@@ -6,9 +6,8 @@ subtitle: PhD candidate at <a href='https://www.mcgill.ca/mbr/'>MBR Lab</a>, McG
 
 profile:
   align: right
-  image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+  image: prof_pic1.jpg
+  address: >
     <p>siril.dukkipati@mail.mcgill.ca</p>
     <p>sirilteja.dukkipati@gmail.com</p>
 
@@ -21,8 +20,8 @@ Welcome.! I am a PhD candidate at the [Musculoskeletal Biomechanics Research Lab
 
 My research interests include Robot design, Control, Experimental validation. My PhD work is focused on developing a validated robotic benchtop spinal model for use as a research tool in low back research. I also do some [web dev](/picxel) and delve in cybersecurity topics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a Bachelor's Degree in Mechanical Engineering from [Manipal University](https://manipal.edu/mu.html), India and did my bachelor's thesis with the [R&MM Research Group](http://mech.vub.ac.be/multibody_mechanics.htm) at Vrije Universiteit Brussel, Belgium.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was also a part of [Mars Society South Asia](https://southasia.marssociety.org/) and worked on promoting space exploration and education in the 7 South Asian countries by organizing robotic competitions like [IRC](https://southasia.marssociety.org/indianroverchallenge/), [IRDC](https://southasia.marssociety.org/irdc/) etc.
 
 In my free time, I enjoy doing [photography](https://www.instagram.com/siril.td/). I love [cycling](https://www.strava.com/athletes/82563036) and go on long biking trips during summers.  
